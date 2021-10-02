@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876351886518",
+    "project_id": "loginandnavigationcomponents",
+    "storage_bucket": "loginandnavigationcomponents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876351886518:android:e595bb479bae38b7e9c217",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginandnavigationcomponentsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876351886518-aos09e5j0gkqsrkc1nh9qi756082d5uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4DWswWOt0VpPtQ7_U6Kq2hEdYBPzpUas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876351886518-aos09e5j0gkqsrkc1nh9qi756082d5uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
